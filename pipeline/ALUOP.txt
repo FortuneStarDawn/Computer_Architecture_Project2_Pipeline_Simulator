@@ -1,0 +1,13 @@
+0 nop / jr / beq / bne / bgtz / j
+1 add / addi / lw /lh /lhu / lb / lbu / sw / sh / sb
+2 addu / addiu / jal
+3 sub
+4 and / andi
+5 or / ori 
+6 xor
+7 nor / nori
+8 nand
+9 slt / slti
+10 sll / lui
+11 srl 
+12 sra
